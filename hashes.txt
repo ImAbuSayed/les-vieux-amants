@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Les Vieux Amants
+
+This log tracks the cryptographic history and versioning for the song **Les Vieux Amants** (les-vieux-amants).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-25T11:49:17.896694 | `v1` | `78fa3d19dd53a91f359ae1d4629c4bf1cf22461562b232789449ff429cc458d4` | `d243a18402e34d9dc11ee2b2b113d5ae6babe73942e70e3abb8c4f44094c5516` | `2026-06-25_les-vieux-amants-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
