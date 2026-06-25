@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-vieux-amants/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Les Vieux Amants](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-vieux-amants/) |
+| **Get License** | [Music Rights & Licensing for Les Vieux Amants](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-vieux-amants/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sous les néons violets, tu brilles dans le noir
+> Viens tout près de moi, on s'oublie ce soir
+> Ton parfum m'enivre, c'est de la pure magie
+> C'est toi et moi mon amour, au rythme de Paris
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
